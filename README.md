@@ -6,9 +6,9 @@ The purpose of this repository is to create a centralised location for all tutor
 
 Topic | Notebook | Purpose
 ----- | -------- | ---------------
-StatsBomb Python Library | [Installing The StatsBomb Python Library](StatsBomb Data/PythonBlogdownTutorial.ipynb) | This tutorial steps through installing the Python library and some simple usage.
-Reformatting | [StatsBomb Reformat](StatsBomb Data/StatsbombReformat.ipynb) | This notebook steps through some options for reformatting the data received when using the Python Library. 
-Plotting | [Plotting Event Data](StatsBomb Data/PlottingShotsPython.ipynb) | A few options for plotting Event data with Python and Matplotlib.
+StatsBomb Python Library | [Installing The StatsBomb Python Library](StatsBomb/PythonBlogdownTutorial.ipynb) | This tutorial steps through installing the Python library and some simple usage.
+Reformatting | [StatsBomb Reformat](StatsBomb/StatsbombReformat.ipynb) | This notebook steps through some options for reformatting the data received when using the Python Library. 
+Plotting | [Plotting Event Data](StatsBomb/PlottingShotsPython.ipynb) | A few options for plotting Event data with Python and Matplotlib.
 
 
 ## Tutorials:
